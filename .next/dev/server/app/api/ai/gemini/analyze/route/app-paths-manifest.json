@@ -1,0 +1,3 @@
+{
+  "/api/ai/gemini/analyze/route": "app/api/ai/gemini/analyze/route.js"
+}

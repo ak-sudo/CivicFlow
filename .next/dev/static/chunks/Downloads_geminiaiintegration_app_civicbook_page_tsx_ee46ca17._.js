@@ -1,0 +1,8 @@
+(globalThis.TURBOPACK_CHUNK_LISTS || (globalThis.TURBOPACK_CHUNK_LISTS = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: [
+  "static/chunks/Downloads_geminiaiintegration_747c7aa9._.js",
+  "static/chunks/c7219_467a9ff4._.js"
+],
+    source: "dynamic"
+});
